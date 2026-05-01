@@ -28,7 +28,9 @@ I’ve been working on hands-on projects like a SIEM-lite dashboard to understan
 
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shta-ryuel/shta-ryuel/output/github-contribution-grid-snake-dark.svg" />
+</p>
 <!-- GitHub Stats (optional but clean) -->
 
 
