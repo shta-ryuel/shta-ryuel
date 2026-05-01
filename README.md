@@ -30,10 +30,7 @@ I’ve been working on hands-on projects like a SIEM-lite dashboard to understan
 
 
 <!-- GitHub Stats (optional but clean) -->
-<!-- update -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shta-ryuel/Shta-Shaima-Sampath/refs/heads/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+
 
 
 
