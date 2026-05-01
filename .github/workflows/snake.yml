@@ -2,8 +2,6 @@ name: Generate Snake
 
 on:
 workflow_dispatch:
-schedule:
-- cron: "0 */24 * * *"
 
 jobs:
 build:
@@ -17,7 +15,6 @@ steps:
     with:
       github_user_name: shta-ryuel
       outputs: |
-        dist/github-contribution-grid-snake.svg
         dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
   - uses: crazy-max/ghaction-github-pages@v3
@@ -27,3 +24,4 @@ steps:
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
